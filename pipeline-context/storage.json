@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-11-04T22:05:42.400687",
+  "description": "Pipeline cache, context and execution state",
+  "folder": "pipeline-context",
+  "manifest": {
+    "jobteaser_cache.jsonl": "Offer pages cache",
+    "offers.json": "Scraped offers store and historical scrapes",
+    "report.md": "Pipeline markdown report",
+    "routine.json": "Automate routine workflow definitions",
+    "settings.json": "Dashboard and pipeline configuration",
+    "state.json": "Pipeline state, triage rankings, stack/queue and user selections",
+    "triage.json": "Triage evaluation summary"
+  },
+  "version": 1
+}
