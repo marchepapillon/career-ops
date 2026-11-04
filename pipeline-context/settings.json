@@ -1,1 +1,22 @@
-{}
+{
+  "batch_size": 20,
+  "effort": "",
+  "effort_agy": "",
+  "effort_claude": "",
+  "effort_grok": "",
+  "engine": "claude",
+  "min_score": 4.0,
+  "model": "",
+  "model_agy": "",
+  "model_claude": "",
+  "model_grok": "",
+  "permission_mode": "auto",
+  "ranking_confidence": "medium",
+  "scrape_details": true,
+  "scrape_every": 24,
+  "scrape_headless": true,
+  "scrape_limit": 100,
+  "scrape_url": "",
+  "timeout": 45,
+  "weekly_goal": 5
+}
